@@ -1,0 +1,17 @@
+#footer-wrap
+  if theme.footer.owner.enable
+    - var now = new Date()
+    - var nowYear = now.getFullYear()
+    if theme.footer.owner.since && theme.footer.owner.since != nowYear
+      .copyright!= `&copy;${theme.footer.owner.since} - ${nowYear} By ${config.author}`
+    else
+      .copyright!= `&copy;${nowYear} By ${config.author}`
+  if theme.footer.copyright
+    .framework-info
+      <span><a href="https://hexo.io/" target="_blank" title="由 Halo 强力驱动" style="text-decoration:none;"><span style="color: #fff;border-bottom-left-radius: 4px;border-top-left-radius: 4px;background-color: #505050;padding: 1px 3px 1px 3px;" ><img src="https://www.xiaowangc.com/img/hexo.png" style="vertical-align:text-bottom">&nbsp</i>Powered</span><span data-v-625f2a9e="" style="color: #fff;padding: 1px 3px 1px 3px;background-color: #007ec6!important;border-top-right-radius: 4px;border-bottom-right-radius: 4px;">Hexo v6.3.0</span></a></span>
+      <span><a href="https://cloud.tencent.com/" target="_blank" title="由Tencent Cloud托管" style="text-decoration:none;"><span style="color: #fff;border-bottom-left-radius: 4px;border-top-left-radius: 4px;background-color: #505050;padding: 1px 3px 1px 3px;" ><i class="fa-brands fa-docker">&nbsp</i>Trusteeship</span><span data-v-625f2a9e="" style="color: #fff;padding: 1px 3px 1px 3px;background-color: #44e0c0!important;border-top-right-radius: 4px;border-bottom-right-radius: 4px;">Tencent Cloud</span></a></span>
+      <span><a href="https://beian.miit.gov.cn/" target="_blank" title="ICP备案" style="text-decoration:none;"><span style="color: #fff;border-bottom-left-radius: 4px;border-top-left-radius: 4px;background-color: #505050;padding: 1px 3px 1px 3px;"><img src="https://www.xiaowangc.com/img/icp.png" style="vertical-align:text-bottom">&nbsp</i>蜀ICP备</span><span data-v-625f2a9e="" style="color: #fff;padding: 1px 3px 1px 3px;background-color: red!important;border-top-right-radius: 4px;border-bottom-right-radius: 4px;">2022002393号</span></a></span>
+      <span><a href="https://icp.gov.moe/" target="_blank" title="萌国备案" style="text-decoration:none;"><span style="color: #fff;border-bottom-left-radius: 4px;border-top-left-radius: 4px;background-color: #505050;padding: 1px 3px 1px 3px;"><img src="https://www.xiaowangc.com/img/mb.ico" style="vertical-align:text-bottom">&nbsp</i>萌备</span><span data-v-625f2a9e="" style="color: #fff;padding: 1px 3px 1px 3px;background-color: orange!important;border-top-right-radius: 4px;border-bottom-right-radius: 4px;">20220706号</span></a></span>
+      <span><a href="https://github.com/jerryc127/hexo-theme-butterfly" target="_blank" title="主题" style="text-decoration:none;"><span style="color: #fff;border-bottom-left-radius: 4px;border-top-left-radius: 4px;background-color: #505050;padding: 1px 3px 1px 3px;"><i class="fa-brands fa-github"></i>&nbsp</i>Theme</span><span data-v-625f2a9e="" style="color: #fff;padding: 1px 3px 1px 3px;background-color: #4dc820!important;border-top-right-radius: 4px;border-bottom-right-radius: 4px;">Butterfly</span></a></span>
+  if theme.footer.custom_text
+    .footer_custom_text!=`${theme.footer.custom_text}`

@@ -1,0 +1,148 @@
+[
+    {
+      "class_name": "我的小伙伴",
+      "class_desc": "那些人，那些事",
+      "link_list": [
+        {
+          "name": "尤妤",
+          "link": "https://www.xiaowangc.com",
+          "avatar": "https://www.xiaowangc.com/img/touxiang.jpg",
+          "descr": "我想我会一直孤单."
+        },
+        {
+          "name": "鱼头君",
+          "link": "https://www.yuque.com/yutoujun-jg4gf",
+          "avatar": "https://xiaowangc.com/img/yutoujun.png",
+          "descr": "头发还没掉完之前，请继续学习。"
+        }
+      ]
+    },
+    {
+      "class_name": "这都是大佬",
+      "class_desc": "值得推荐的网站 (排名不分先后)",
+      "link_list": [
+        {
+          "name": "国光",
+          "link": "https://www.sqlsec.com/",
+          "avatar": "https://image.3001.net/images/20210606/16229390604952.png",
+          "descr": "逆水行舟，不进则退"
+        },
+        {
+          "name": "Chaospring",
+          "link": "https://chaospring.com",
+          "avatar": "https://chaospring.com/img/avatar.jpg",
+          "descr": "Chaospring"
+        },
+        {
+          "name": "朱双印",
+          "link": "https://www.zsythink.net/",
+          "avatar": "https://www.zsythink.net/wp-content/uploads/2016/12/logotouming.png",
+          "descr": "朱双印-个人日志"
+        },
+        {
+          "name": "凡俗",
+          "link": "https://www.zhuyongci.com/",
+          "avatar": "https://oss.zhuyongci.com/bookimg/6432d289dd6e4dbaae7909f95b4f6d24.jpg",
+          "descr": "人间清醒"
+        },
+        {
+          "name": "骏马金龙",
+          "link": "https://www.junmajinlong.com/",
+          "avatar": "https://www.junmajinlong.com/img/touxiang.jpg",
+          "descr": "我乃半路和尚，因优秀不够，发量尚多，常感恐慌和焦虑，不得不保持学习，丝毫不敢停留。"
+        },
+        {
+          "name": "唐志远の博客",
+          "link": "https://tzy1997.com/",
+          "avatar": "https://bu.dusays.com/2022/05/02/626f92e193879.jpg",
+          "descr": "2022年的理想开始实现了吗？"
+        },
+        {
+          "name": "Dogfight360",
+          "link": "https://www.dogfight360.com/blog/",
+          "avatar": "https://www.dogfight360.com/blog/wp-content/uploads/2014/12/cropped-QQ%E5%9B%BE%E7%89%87201412071552001.jpg",
+          "descr": "羽翼城个人博客"
+        },
+        {
+          "name": "fcant",
+          "link": "https://www.yuque.com/fcant",
+          "avatar": "https://cdn.nlark.com/yuque/0/2019/jpeg/anonymous/1562114802935-504aca79-85ec-479f-a23e-b5a68e3899ad.jpeg?x-oss-process=image%2Fresize%2Cm_fill%2Cw_328%2Ch_328%2Fformat%2Cpng",
+          "descr": "Hello World"
+        },
+        {
+          "name": "皓~的博客",
+          "link": "http://www.zhanghaobk.com/",
+          "avatar": "/img/go.jpg",
+          "descr": "你日渐平庸，甘于平庸，将继续平庸。"
+        },
+        {
+          "name": "不念博客",
+          "link": "https://www.bunian.cn",
+          "avatar": "https://www.bunian.cn/wp-content/uploads/2021/11/bn-2.png",
+          "descr": "专注Linux运维技术"
+        }
+      ]
+    },
+    {
+      "class_name": "工具站",
+      "class_desc": "工欲善其事必先利其器",
+      "link_list": [
+        {
+          "name": "Base64",
+          "link": "https://base64.us/",
+          "avatar": "https://base64.us/favicon.png",
+          "descr": "Base64加密&解密"
+        },{
+          "name": "书栈网",
+          "link": "https://www.bookstack.cn/",
+          "avatar": "https://www.bookstack.cn/favicon.ico",
+          "descr": "互联网开源编程书籍"
+        },{
+          "name": "ESJSON",
+          "link": "http://www.esjson.com/",
+          "avatar": "https://www.json.cn/favicon.ico",
+          "descr": "JSON/YAML格式化工具"
+        },{
+          "name": "FreeSSL",
+          "link": "https://freessl.cn/",
+          "avatar": "https://freessl.cn/static/favicon.ico",
+          "descr": "一个提供免费HTTPS证书申请的网站"
+        },{
+          "name": "阿里云镜像站",
+          "link": "https://developer.aliyun.com/mirror/",
+          "avatar": "https://img.alicdn.com/tfs/TB13DzOjXP7gK0jSZFjXXc5aXXa-212-48.png",
+          "descr": "全面稳定的系统镜像服务"
+        },{
+          "name": "Redis开源连接工具",
+          "link": "https://github.com/qishibo/AnotherRedisDesktopManager",
+          "avatar": "",
+          "descr": "一个更快，更好，更稳定的redis桌面管理器[GUI客户端]，与Linux，Windows，Mac兼容。更重要的是，它在加载大量密钥时不会崩溃。"
+        },{
+          "name": "压力测试工具",
+          "link": "https://github.com/baidu/dperf",
+          "avatar": "",
+          "descr": "一款开源的四层负载均衡压力测试仪"
+        },{
+          "name": "iStoreOS",
+          "link": "https://github.com/istoreos",
+          "avatar": "https://doc.linkease.com/assets/img/logo_istoreos@3x.306a55b5.png",
+          "descr": "一款开源是个人就会用的路由兼轻NAS 系统"
+        },{
+          "name": "FxSound",
+          "link": "https://www.fxsound.com/",
+          "avatar": "https://bpic.51yuansu.com/pic3/cover/02/08/30/599ea2e550185_610.jpg",
+          "descr": "Windows免费音量增强工具"
+        },{
+          "name": "Writage",
+          "link": "https://www.writage.com/",
+          "avatar": "https://www.writage.com/assets/images/site-logo.png",
+          "descr": "适用于Word的Markdown插件"  
+        },{
+          "name": "MAS",
+          "link": "https://massgrave.dev/",
+          "avatar": "https://bpic.51yuansu.com/pic3/cover/01/08/49/590306f8bdb8c_610.jpg",
+          "descr": "开源的Win+Office激活工具"  
+        }
+      ]
+    }
+  ]

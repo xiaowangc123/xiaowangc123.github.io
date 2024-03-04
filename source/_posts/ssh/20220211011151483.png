@@ -1,0 +1,824 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title itemprop="name">尤妤.</title>
+	<meta name="description" content=""/>
+	<meta name="keywords" content="xiaowangc,小王,xiaowangc.com,尤妤."/>
+  	<link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+
+    <meta name="generator" content="Halo 1.5.0"/>
+        <link rel="shortcut icon" type="images/x-icon" href="/upload/2022/04/%E5%A4%B4%E5%83%8F.jpg">
+    
+	<link rel='stylesheet' href='/themes/LIlGG_Sakura/styles/style.min.css?ver=1.3.3' type='text/css' media='all'>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+SerifMerriweather|Merriweather+Sans|Source+Code+Pro|Ubuntu:400,700|Noto+Serif+SC&display=swap" media="noexist" onload="this.media='all'">
+	<link rel="stylesheet" href="//at.alicdn.com/t/font_2010950_sh9o0r7ahar.css" media="noexist" onload="this.media='all'">
+	<link rel="stylesheet" href="/themes/LIlGG_Sakura/source/css/lib.css" media="noexist" onload="this.media='all'">
+	<link rel='stylesheet' href="/themes/LIlGG_Sakura/source/css/highlight/highlight-Dracula.css" type="text/css" media="noexist" onload="this.media='all'">
+	<link rel="stylesheet" href="/themes/LIlGG_Sakura/source/lib/jqcloud2/jqcloud.min.css" media="noexist" onload="this.media='all'">
+	<link rel="stylesheet" href="/themes/LIlGG_Sakura/source/lib/justifiedGallery/justifiedGallery.min.css" media="noexist" onload="this.media='all'">
+<style type="text/css"> .site-top .lower nav { display: block !important; } /** * 图片资源 */ .video-play, .loadvideo { background-image: url(/themes/LIlGG_Sakura/source/images/play@32x32.png) } .video-pause { background-image: url(/themes/LIlGG_Sakura/source/images/pause@32x32.png) } #video-add { background-image: url(/themes/LIlGG_Sakura/source/images/add@32x32.png); } #loading-comments { background-image: url(/themes/LIlGG_Sakura/source/images/disqus-preloader.svg); } .headertop.filter-grid:before { background-image: url(/themes/LIlGG_Sakura/source/images/grid.png) } .headertop.filter-dot:before { background-image: url(/themes/LIlGG_Sakura/source/images/dot.gif) } @media (max-width:860px) { .headertop.filter-dot:before { background-image: url(/themes/LIlGG_Sakura/source/images/grid.png) } } .search-form.is-visible { background-image: url(/themes/LIlGG_Sakura/source/images/other/iloli.gif); } #pagination .loading, #journals-pagination .loading { background-image: url(/themes/LIlGG_Sakura/source/images/rotating-ball-o.svg); } #banner_wave_1 { background-image: url(/themes/LIlGG_Sakura/source/images/wave1.png) repeat-x; } #banner_wave_2 { background-image: url(/themes/LIlGG_Sakura/source/images/wave2.png) repeat-x; } .cd-top { background: url(https://cdn.jsdelivr.net/gh/LIlGG/cdn@1.0.8/img/Sakura/images/scroll.png) no-repeat center; } .author-profile i, .post-like a, .post-share .show-share, .sub-text, .we-info a, span.sitename, .post-more i:hover, #pagination a:hover, .post-content a:hover, .float-content i:hover { color: #072cfc } .feature i, .feature-title span, .download, .navigator i:hover, .links ul li:before, .ar-time i, span.ar-circle, .object, .comment .comment-reply-link, .siren-checkbox-radio:checked + .siren-checkbox-radioInput:after { background: #072cfc } ::-webkit-scrollbar-thumb { background: #072cfc } .download, .navigator i:hover, .link-title, .links ul li:hover, #pagination a:hover, .comment-respond input[type='submit']:hover { border-color: #072cfc } .entry-content a:hover, .site-info a:hover, .comment h4 a, #comments-navi a.prev, #comments-navi a.next, .comment h4 a:hover, .site-top ul li a:hover, .entry-title a:hover, #archives-temp h3, span.page-numbers.current, .sorry li a:hover, .site-title a:hover, i.iconfont.js-toggle-search.iconsearch:hover, .comment-respond input[type='submit']:hover { color: #072cfc } #nprogress .bar { background: #072cfc } #nprogress .peg { box-shadow: 0 0 10px #072cfc, 0 0 5px #072cfc; } #pagination a:hover { border: 1px solid #072cfc; } #pagination a:hover { -webkit-box-shadow: 0 0 4px #072cfc; -moz-box-shadow: 0 0 4px #072cfc; -o-box-shadow: 0 0 4px #072cfc; box-shadow: 0 0 4px #072cfc } .entry-content a:after { background-color: #072cfc } .site-top ul li a:after { background-color: #072cfc } .post-tags a:hover { color: #072cfc } blockquote:before { color: #072cfc; } blockquote:after { color: #072cfc; } @media (max-width: 860px) { #mo-nav ul li a:hover { color: #072cfc; } } @media (min-width: 860px) { .chip-container { margin-top: -60px;; } } #gallery-filter { text-align: center; } .masonry-gallery .gallery-item { margin-bottom: 10px } /** 日志 */ .journals-line>li:nth-child(odd) .journal-label:after { border-right-color: #e6e6fa; } .at_button { background-color: #e6e6fa; color: #000000; } .at_button:hover { background: #f0ffff; color: #000000; } .journals-line>li:nth-child(odd) .journal-label { background: #e6e6fa; color: #000000; } .journals-line>li .journal-label { background: #f0ffff; color: #000000; } .cd-top { display: none; height: 60px; width: 50px } .cd-top span { height: 10px; width: 50px } .m-cd-top { display: block; bottom: 40px; } @media screen and (max-width:860px) { .m-cd-top { bottom: 10px; } } /*黑夜模式控件透明度*/ body.dark .header-info, body.dark .top-social img { color:#fff; background:rgba(0,0,0,0.7); } body.dark .notification, body.dark .the-feature.from_left_and_right .info { background-color: rgba(0,0,0,0.7); } body.dark .skin-menu, body.dark .m-cd-top { background-color:rgba(0,0,0,0.7) !important; } /*黑夜模式图像亮度*/ body.dark img, body.dark .highlight-wrap, body.dark iframe, body.dark .entry-content .aplayer { filter:brightness(0.7); } /*黑夜模式主题色*/ body.dark .ar-time i, body.dark span.ar-circle, body.dark .scrollbar, body.dark .butterBar-message, body.dark .aplayer .aplayer-list ol li:hover { background: #fe9600 !important; } body.dark .aplayer .aplayer-list ol li.aplayer-list-light .aplayer-list-cur, body.dark .user-menu-option a:hover , body.dark .menu-list li:hover , body.dark .font-family-controls button:hover , body.dark .openNav .icon, body.dark .openNav .icon:before , body.dark .openNav .icon:after , body.dark .openNav .icon:after , body.dark .site-top ul li a:after { background-color: #fe9600; } body.dark #archives-temp h3, body.dark #moblieGoTop, body.dark #changskin, body.dark .the-feature.from_left_and_right a:hover .info p, body.dark .the-feature.from_left_and_right .info, body.dark .ins-section .ins-search-item:hover, body.dark .ins-section .ins-search-item:hover .ins-slug, body.dark .ins-section .ins-search-item:hover .ins-search-preview, body.dark .ins-section .ins-search-item:hover .iconfont , body.dark .float-content i:hover, body.dark .menhera-container .emoji-item:hover , body.dark .comment-respond .logged-in-as a:hover , body.dark .site-top ul li a:hover , body.dark i.iconfont.js-toggle-search.iconsearch:hover { color: #fe9600; } body.dark .aplayer .aplayer-info .aplayer-controller .aplayer-time .aplayer-icon:hover path { fill: #fe9600 } body.dark #moblieGoTop:hover , body.dark #changskin:hover { color: #fe9600; opacity:.8; } body.dark .focusinfo .header-tou img { box-shadow: inset 0 0 10px #fe9600; } </style> <!-- 评论模块独立样式 --> <style id="comment-style" type="text/css" media="noexist"> .halo-comment.dark button, .halo-comment.dark input, .halo-comment.dark select, .halo-comment.dark textarea, .halo-comment.dark i.iconfont.js-toggle-search.iconsearch, .halo-comment.dark .comment-textarea .input-label, .halo-comment.dark #emotion-toggle span, .halo-comment.dark .emotion-box, .halo-comment.dark .emotion-box .motion-container .emoji-item { color: #eee !important; } .halo-comment.dark .body p { color: #bebebe !important; } .halo-comment.dark input[type=color]:focus, .halo-comment.dark input[type=date]:focus, .halo-comment.dark input[type=datetime-local]:focus, .halo-comment.dark input[type=datetime]:focus, .halo-comment.dark input[type=email]:focus, .halo-comment.dark input[type=month]:focus, .halo-comment.dark input[type=number]:focus, .halo-comment.dark input[type=password]:focus, .halo-comment.dark input[type=range]:focus, .halo-comment.dark input[type=search]:focus, .halo-comment.dark input[type=tel]:focus, .halo-comment.dark input[type=text]:focus, .halo-comment.dark input[type=time]:focus, .halo-comment.dark input[type=url]:focus, .halo-comment.dark input[type=week]:focus, .halo-comment.dark textarea:focus { color: #eee !important; background-color: #31363b !important; } .halo-comment.dark .comment .info, .halo-comment.dark .comment .comment-time, .halo-comment.dark .comment-respond .logged-in-as, .halo-comment.dark .notification, .halo-comment.dark .comment-respond .logged-in-as a { color: #9499a8; } /** 说说评论样式 */ .halo-comment.journal { max-height: 600px; overflow: auto; } </style>	<script type="text/javascript">
+		if (!!window.ActiveXObject || "ActiveXObject" in window) {
+			alert('请抛弃万恶的IE系列浏览器吧。');
+		}
+	</script>
+</head>
+<body class="hfeed chinese-font serif">
+<section id="main-container">
+		<div class="headertop filter-grid">
+<figure id="centerbg" class="centerbg" style="background-image: url(
+		/upload/2022/03/wallhaven-eyl1xr.jpg
+	);
+">
+	<div class="focusinfo">
+			<h1 class="center-text glitch" data-text="尤妤.">尤妤.</h1>
+		<div class="header-info no-select
+			">
+			<div class="top-social_v2">
+			    <li id="bg-pre">
+            		<img class="flipx" src="/themes/LIlGG_Sakura/source/images/next-b.svg">
+          		</li>
+				<li class="qq">
+					<a href="//wpa.qq.com/msgrd?v=3&uin=780312916&site=qq&menu=yes" target="_blank" class="i18n" data-iname="icon_alt.qq" data-iattr="title">
+						<img src="/themes/LIlGG_Sakura/source/images/sns/qq.png"/>
+					</a>
+				</li>
+				<li>
+					<a onclick="LIlGGAttachContext.TOMAIL()" target="_blank" class="i18n" data-iname="icon_alt.email" data-iattr="title">
+						<img src="/themes/LIlGG_Sakura/source/images/sns/email.svg"/>
+					</a>
+				</li>
+
+
+				<li id="bg-next">
+            		<img src="/themes/LIlGG_Sakura/source/images/next-b.svg">
+          		</li>
+			</div>
+		</div>
+	</div>
+</figure>
+		<!-- 背景视频 -->
+		<!-- 首页下拉箭头 -->
+			<div class="headertop-down faa-float animated" onclick="headertop_down()">
+				<span><i class="fa fa-chevron-down" aria-hidden="true"></i></span>
+			</div>
+		</div>
+	<div id="page" class="site wrapper">
+<style>
+    /** Post start */
+    /** Post end */
+</style>		<header class="site-header  is-homepage" role="banner">
+			<div class="site-top">
+				<div class="site-branding">
+						<!--<h1 class="site-title"><a href="https://www.xiaowangc.com">尤妤.</a></h1>-->
+                        <h1 class="site-title"><a href="https://www.xiaowangc.com">xiaowangc</a></h1>
+					<!-- logo end -->
+				</div><!-- .site-branding -->
+				<div class="header-user-avatar">
+					<img src="/upload/2022/04/%E5%A4%B4%E5%83%8F.jpg" width="30" height="30">
+					<div class="header-user-menu">
+						<div class="herder-user-name">
+							<div class="herder-user-name-u">xiaowangc</div>
+						</div>
+					</div>
+                    
+				</div>
+				<div class="searchbox"><i class="iconfont js-toggle-search iconsearch icon-search"></i></div>
+				<div class="lower-cantiner">
+					<div class="lower">
+						<nav class="navbar">
+<ul id="menu-menu-1" class="menu" >
+				<li>
+				<a  href="/" target="_self" >
+                    <span class="faa-parent animated-hover">
+首页
+                    </span>
+				</a>
+			</li>
+
+			<li>
+				<a  href="/archives" target="_self" >
+                    <span class="faa-parent animated-hover">
+文章归档
+                    </span>
+				</a>
+			</li>
+
+			<li>
+				<a  href="/categories/default" target="_self" >
+                    <span class="faa-parent animated-hover">
+默认分类
+                    </span>
+				</a>
+			</li>
+
+			<li>
+				<a  href="/links" target="_self" >
+                    <span class="faa-parent animated-hover">
+友链
+                    </span>
+				</a>
+			</li>
+
+			<li>
+				<a  href="/s/about" target="_self" >
+                    <span class="faa-parent animated-hover">
+关于页面
+                    </span>
+				</a>
+			</li>
+
+</ul>						</nav>
+						<!-- #site-navigation -->
+					</div>
+				</div>
+			</div>
+		</header><!-- #masthead -->
+	<div class="blank"></div>
+		<div id="content" class="site-content">
+
+	<div class="notice" style="
+		margin-top: 20px;
+		">
+		<i class="iconfont icon-broadcast"></i>
+		<div class="notice-content">这是一个公告</div>
+	</div>
+
+
+<div id="primary" class="content-area">
+	<main id="main" class="site-main" role="main">
+		<h1 class="main-title" style="font-family: 'Ubuntu', sans-serif;">
+		<i class="fa fa-envira" aria-hidden="true"></i>
+		<span class="i18n" data-iname="home.discovery"></span>
+		</h1>
+<article class="post post-list-thumb " itemscope="" itemtype="http://schema.org/BlogPosting">
+	<div class="post-thumb">
+		<a href="/archives/alertmanager">
+			<img
+                src="https://api.lixingyong.com/api/images?postid=69&type=url&itype=image"
+                srcset="/themes/LIlGG_Sakura/source/images/svg/loader/orange.progress-bar-stripe-loader.svg"
+                data-srcset="https://api.lixingyong.com/api/images?postid=69&type=url&itype=image&th=640 640w,
+                    https://api.lixingyong.com/api/images?postid=69&type=url&itype=image&th=960 960w,
+                    https://api.lixingyong.com/api/images?postid=69&type=url&itype=image&th=1280 1280w,
+                    https://api.lixingyong.com/api/images?postid=69&type=url&itype=image 1440w"
+                data-sizes="auto"
+                class="lazyload" />
+		</a>
+	</div><!-- thumbnail-->
+	<div class="post-content-wrap">
+		<div class="post-content">
+			<div class="post-date">
+				<i class="iconfont icon-time"></i><span class="i18n" data-iname="postlist.time" data-ivalue="2022-06-25"></span>
+				
+			</div>
+			<a href="/archives/alertmanager" class="post-title"><h3>Alertmanager</h3></a>
+			<div class="post-meta">
+				<span><i class="iconfont icon-attention"></i><span class="i18n" data-iname="postlist.heat" data-ivalue="14"></span></span>
+				<span class="comments-number">
+					<i class="iconfont icon-mark"></i>
+					<span class="i18n" data-iname="postlist.comments" data-ivalue="0">
+					</span>
+				</span>
+				<span><i class="iconfont icon-file"></i><a href="/categories/prometheus">Prometheus</a></span>
+			</div>
+			<div class="float-content">
+				<p>一、AlertmanagerPrometheus发出告警时分为两部分。首先，Prometheus按告警规则（rule_files配置块）向alertmanager发送告警（即告警规则是在Prometheus上定义的）。然后由Alertmanager来管理这些告警，包括去重（Deduplicating</p>
+				<div class="post-bottom">
+					<a href="/archives/alertmanager" class="button-normal"><i class="iconfont icon-caidan"></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
+</article>
+<article class="post post-list-thumb post-list-thumb-left" itemscope="" itemtype="http://schema.org/BlogPosting">
+	<div class="post-thumb">
+		<a href="/archives/prometheus-cha-xun">
+			<img
+                src="https://api.lixingyong.com/api/images?postid=68&type=url&itype=image"
+                srcset="/themes/LIlGG_Sakura/source/images/svg/loader/orange.progress-bar-stripe-loader.svg"
+                data-srcset="https://api.lixingyong.com/api/images?postid=68&type=url&itype=image&th=640 640w,
+                    https://api.lixingyong.com/api/images?postid=68&type=url&itype=image&th=960 960w,
+                    https://api.lixingyong.com/api/images?postid=68&type=url&itype=image&th=1280 1280w,
+                    https://api.lixingyong.com/api/images?postid=68&type=url&itype=image 1440w"
+                data-sizes="auto"
+                class="lazyload" />
+		</a>
+	</div><!-- thumbnail-->
+	<div class="post-content-wrap">
+		<div class="post-content">
+			<div class="post-date">
+				<i class="iconfont icon-time"></i><span class="i18n" data-iname="postlist.time" data-ivalue="2022-06-24"></span>
+				
+			</div>
+			<a href="/archives/prometheus-cha-xun" class="post-title"><h3>Prometheus查询</h3></a>
+			<div class="post-meta">
+				<span><i class="iconfont icon-attention"></i><span class="i18n" data-iname="postlist.heat" data-ivalue="16"></span></span>
+				<span class="comments-number">
+					<i class="iconfont icon-mark"></i>
+					<span class="i18n" data-iname="postlist.comments" data-ivalue="0">
+					</span>
+				</span>
+				<span><i class="iconfont icon-file"></i><a href="/categories/prometheus">Prometheus</a></span>
+			</div>
+			<div class="float-content">
+				<p>一、度量类型Prometheus 支持四种类型的指标，它们是 - Counter - Gauge - Histogram - SummaryCounter(计数器类型)计数器是一个只能增加或重置的度量值，即该值不能比之前的值减少。它可用于请求数量、错误数量等指标。不是Counter类型的度量却当作C</p>
+				<div class="post-bottom">
+					<a href="/archives/prometheus-cha-xun" class="button-normal"><i class="iconfont icon-caidan"></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
+</article>
+<article class="post post-list-thumb " itemscope="" itemtype="http://schema.org/BlogPosting">
+	<div class="post-thumb">
+		<a href="/archives/prometheus-su-ji">
+			<img
+                src="https://api.lixingyong.com/api/images?postid=67&type=url&itype=image"
+                srcset="/themes/LIlGG_Sakura/source/images/svg/loader/orange.progress-bar-stripe-loader.svg"
+                data-srcset="https://api.lixingyong.com/api/images?postid=67&type=url&itype=image&th=640 640w,
+                    https://api.lixingyong.com/api/images?postid=67&type=url&itype=image&th=960 960w,
+                    https://api.lixingyong.com/api/images?postid=67&type=url&itype=image&th=1280 1280w,
+                    https://api.lixingyong.com/api/images?postid=67&type=url&itype=image 1440w"
+                data-sizes="auto"
+                class="lazyload" />
+		</a>
+	</div><!-- thumbnail-->
+	<div class="post-content-wrap">
+		<div class="post-content">
+			<div class="post-date">
+				<i class="iconfont icon-time"></i><span class="i18n" data-iname="postlist.time" data-ivalue="2022-06-23"></span>
+				
+			</div>
+			<a href="/archives/prometheus-su-ji" class="post-title"><h3>Prometheus速记</h3></a>
+			<div class="post-meta">
+				<span><i class="iconfont icon-attention"></i><span class="i18n" data-iname="postlist.heat" data-ivalue="18"></span></span>
+				<span class="comments-number">
+					<i class="iconfont icon-mark"></i>
+					<span class="i18n" data-iname="postlist.comments" data-ivalue="0">
+					</span>
+				</span>
+				<span><i class="iconfont icon-file"></i><a href="/categories/prometheus">Prometheus</a></span>
+			</div>
+			<div class="float-content">
+				<p>DockerFile:FROM alpineMAINTAINER xiaowangc.comEXPOSE 9090ADD prometheus-2.31.0-rc.0.linux-amd64.tar.gz /etc/WORKDIR /etc/prometheus-2.31.0-rc.0.linux-</p>
+				<div class="post-bottom">
+					<a href="/archives/prometheus-su-ji" class="button-normal"><i class="iconfont icon-caidan"></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
+</article>
+<article class="post post-list-thumb post-list-thumb-left" itemscope="" itemtype="http://schema.org/BlogPosting">
+	<div class="post-thumb">
+		<a href="/archives/nodeexporter">
+			<img
+                src="https://api.lixingyong.com/api/images?postid=66&type=url&itype=image"
+                srcset="/themes/LIlGG_Sakura/source/images/svg/loader/orange.progress-bar-stripe-loader.svg"
+                data-srcset="https://api.lixingyong.com/api/images?postid=66&type=url&itype=image&th=640 640w,
+                    https://api.lixingyong.com/api/images?postid=66&type=url&itype=image&th=960 960w,
+                    https://api.lixingyong.com/api/images?postid=66&type=url&itype=image&th=1280 1280w,
+                    https://api.lixingyong.com/api/images?postid=66&type=url&itype=image 1440w"
+                data-sizes="auto"
+                class="lazyload" />
+		</a>
+	</div><!-- thumbnail-->
+	<div class="post-content-wrap">
+		<div class="post-content">
+			<div class="post-date">
+				<i class="iconfont icon-time"></i><span class="i18n" data-iname="postlist.time" data-ivalue="2022-06-20"></span>
+				
+			</div>
+			<a href="/archives/nodeexporter" class="post-title"><h3>Node_exporter</h3></a>
+			<div class="post-meta">
+				<span><i class="iconfont icon-attention"></i><span class="i18n" data-iname="postlist.heat" data-ivalue="78"></span></span>
+				<span class="comments-number">
+					<i class="iconfont icon-mark"></i>
+					<span class="i18n" data-iname="postlist.comments" data-ivalue="0">
+					</span>
+				</span>
+				<span><i class="iconfont icon-file"></i><a href="/categories/linux">Linux</a></span>
+			</div>
+			<div class="float-content">
+				<p>一、node_exporter安装node_exporter安装非常简单，只需要解压后台运行即可，默认端口：9100官方下载地址：https://prometheus.io/download/wget https://github.com/prometheus/prometheus/releases</p>
+				<div class="post-bottom">
+					<a href="/archives/nodeexporter" class="button-normal"><i class="iconfont icon-caidan"></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
+</article>
+<article class="post post-list-thumb " itemscope="" itemtype="http://schema.org/BlogPosting">
+	<div class="post-thumb">
+		<a href="/archives/prometheus-xue-xi-1">
+			<img
+                src="https://api.lixingyong.com/api/images?postid=65&type=url&itype=image"
+                srcset="/themes/LIlGG_Sakura/source/images/svg/loader/orange.progress-bar-stripe-loader.svg"
+                data-srcset="https://api.lixingyong.com/api/images?postid=65&type=url&itype=image&th=640 640w,
+                    https://api.lixingyong.com/api/images?postid=65&type=url&itype=image&th=960 960w,
+                    https://api.lixingyong.com/api/images?postid=65&type=url&itype=image&th=1280 1280w,
+                    https://api.lixingyong.com/api/images?postid=65&type=url&itype=image 1440w"
+                data-sizes="auto"
+                class="lazyload" />
+		</a>
+	</div><!-- thumbnail-->
+	<div class="post-content-wrap">
+		<div class="post-content">
+			<div class="post-date">
+				<i class="iconfont icon-time"></i><span class="i18n" data-iname="postlist.time" data-ivalue="2022-06-20"></span>
+				
+			</div>
+			<a href="/archives/prometheus-xue-xi-1" class="post-title"><h3>Prometheus-基础1</h3></a>
+			<div class="post-meta">
+				<span><i class="iconfont icon-attention"></i><span class="i18n" data-iname="postlist.heat" data-ivalue="44"></span></span>
+				<span class="comments-number">
+					<i class="iconfont icon-mark"></i>
+					<span class="i18n" data-iname="postlist.comments" data-ivalue="1">
+					</span>
+				</span>
+				<span><i class="iconfont icon-file"></i><a href="/categories/linux">Linux</a></span>
+			</div>
+			<div class="float-content">
+				<p>一、PrometheusPrometheus是一个开源系统监控和警报工具包，最初在 SoundCloud构建。自 2012 年成立以来，许多公司和组织都采用了 Prometheus，该项目拥有非常活跃的开发者和用户社区。它现在是一个独立的开源项目，独立于任何公司维护。为了强调这一点，并明确项目的治理</p>
+				<div class="post-bottom">
+					<a href="/archives/prometheus-xue-xi-1" class="button-normal"><i class="iconfont icon-caidan"></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
+</article>
+<article class="post post-list-thumb post-list-thumb-left" itemscope="" itemtype="http://schema.org/BlogPosting">
+	<div class="post-thumb">
+		<a href="/archives/k8s-dan-zhu-jiao-ben">
+			<img
+                src="https://api.lixingyong.com/api/images?postid=39&type=url&itype=image"
+                srcset="/themes/LIlGG_Sakura/source/images/svg/loader/orange.progress-bar-stripe-loader.svg"
+                data-srcset="https://api.lixingyong.com/api/images?postid=39&type=url&itype=image&th=640 640w,
+                    https://api.lixingyong.com/api/images?postid=39&type=url&itype=image&th=960 960w,
+                    https://api.lixingyong.com/api/images?postid=39&type=url&itype=image&th=1280 1280w,
+                    https://api.lixingyong.com/api/images?postid=39&type=url&itype=image 1440w"
+                data-sizes="auto"
+                class="lazyload" />
+		</a>
+	</div><!-- thumbnail-->
+	<div class="post-content-wrap">
+		<div class="post-content">
+			<div class="post-date">
+				<i class="iconfont icon-time"></i><span class="i18n" data-iname="postlist.time" data-ivalue="2022-04-17"></span>
+				
+			</div>
+			<a href="/archives/k8s-dan-zhu-jiao-ben" class="post-title"><h3>K8S单主脚本</h3></a>
+			<div class="post-meta">
+				<span><i class="iconfont icon-attention"></i><span class="i18n" data-iname="postlist.heat" data-ivalue="114"></span></span>
+				<span class="comments-number">
+					<i class="iconfont icon-mark"></i>
+					<span class="i18n" data-iname="postlist.comments" data-ivalue="0">
+					</span>
+				</span>
+				<span><i class="iconfont icon-file"></i><a href="/categories/k8s">K8S</a></span>
+			</div>
+			<div class="float-content">
+				<p>1 脚本#!/bin/bashfunction set_repo() {echo &quot;开始配置存储库...&quot;echo &quot;清空默认存储库...&quot;sleep 2rm -rf /etc/yum.repos.d/*.repoecho &quot;安装基础存储库...&q</p>
+				<div class="post-bottom">
+					<a href="/archives/k8s-dan-zhu-jiao-ben" class="button-normal"><i class="iconfont icon-caidan"></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
+</article>
+<article class="post post-list-thumb " itemscope="" itemtype="http://schema.org/BlogPosting">
+	<div class="post-thumb">
+		<a href="/archives/keepalived-xue-xi">
+			<img class="lazyload" data-src="/upload/2022/04/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-04-03%20120243.jpg" src="/themes/LIlGG_Sakura/source/images/svg/loader/orange.progress-bar-stripe-loader.svg" onerror="imgError(this)">
+		</a>
+	</div><!-- thumbnail-->
+	<div class="post-content-wrap">
+		<div class="post-content">
+			<div class="post-date">
+				<i class="iconfont icon-time"></i><span class="i18n" data-iname="postlist.time" data-ivalue="2022-04-02"></span>
+				
+			</div>
+			<a href="/archives/keepalived-xue-xi" class="post-title"><h3>Keepalived学习</h3></a>
+			<div class="post-meta">
+				<span><i class="iconfont icon-attention"></i><span class="i18n" data-iname="postlist.heat" data-ivalue="102"></span></span>
+				<span class="comments-number">
+					<i class="iconfont icon-mark"></i>
+					<span class="i18n" data-iname="postlist.comments" data-ivalue="0">
+					</span>
+				</span>
+				<span><i class="iconfont icon-file"></i><a href="/categories/linux">Linux</a></span>
+			</div>
+			<div class="float-content">
+				<p>1. Keepalived概念前置知识LVS，点我转到LVSKeepalived最初是为LVS而设计，用于避免LVS的单点故障(只有一台LVS服务器，当它Down之后整个集群就崩溃了)。该项目主要是为了Linux系统和基础设施提供简单而强大的负载均衡和高可用性，Keepalived中的负载均衡框架依</p>
+				<div class="post-bottom">
+					<a href="/archives/keepalived-xue-xi" class="button-normal"><i class="iconfont icon-caidan"></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
+</article>
+<article class="post post-list-thumb post-list-thumb-left" itemscope="" itemtype="http://schema.org/BlogPosting">
+	<div class="post-thumb">
+		<a href="/archives/lvslinuxvirtualserver">
+			<img class="lazyload" data-src="/upload/2022/04/_402006627_banner_3d.jpg" src="/themes/LIlGG_Sakura/source/images/svg/loader/orange.progress-bar-stripe-loader.svg" onerror="imgError(this)">
+		</a>
+	</div><!-- thumbnail-->
+	<div class="post-content-wrap">
+		<div class="post-content">
+			<div class="post-date">
+				<i class="iconfont icon-time"></i><span class="i18n" data-iname="postlist.time" data-ivalue="2022-04-02"></span>
+				
+			</div>
+			<a href="/archives/lvslinuxvirtualserver" class="post-title"><h3>LVS(Linux Virtual Server)</h3></a>
+			<div class="post-meta">
+				<span><i class="iconfont icon-attention"></i><span class="i18n" data-iname="postlist.heat" data-ivalue="107"></span></span>
+				<span class="comments-number">
+					<i class="iconfont icon-mark"></i>
+					<span class="i18n" data-iname="postlist.comments" data-ivalue="0">
+					</span>
+				</span>
+			</div>
+			<div class="float-content">
+				<p>1. LVS概念最开始学的时候感觉这么老的技术为什么还在用，内心反感。直到思索K8S部署的时候如果采用LVS的某个功能可以加快K8S包转发效率，感觉是真不错。LVS(Linux Virtual Server)，Linux虚拟服务器。是一个虚拟的服务器集群系统，通过LVS可提供负载均衡以及用来实现一个</p>
+				<div class="post-bottom">
+					<a href="/archives/lvslinuxvirtualserver" class="button-normal"><i class="iconfont icon-caidan"></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
+</article>
+<article class="post post-list-thumb " itemscope="" itemtype="http://schema.org/BlogPosting">
+	<div class="post-thumb">
+		<a href="/archives/ji-yi-ci-ssh-mian-mi-deng-lu">
+			<img class="lazyload" data-src="/upload/2022/04/d3b3ae44fb4e81731c225ed2cb1ee7af.jpeg" src="/themes/LIlGG_Sakura/source/images/svg/loader/orange.progress-bar-stripe-loader.svg" onerror="imgError(this)">
+		</a>
+	</div><!-- thumbnail-->
+	<div class="post-content-wrap">
+		<div class="post-content">
+			<div class="post-date">
+				<i class="iconfont icon-time"></i><span class="i18n" data-iname="postlist.time" data-ivalue="2022-04-01"></span>
+				
+			</div>
+			<a href="/archives/ji-yi-ci-ssh-mian-mi-deng-lu" class="post-title"><h3>记一次ssh免密登录</h3></a>
+			<div class="post-meta">
+				<span><i class="iconfont icon-attention"></i><span class="i18n" data-iname="postlist.heat" data-ivalue="119"></span></span>
+				<span class="comments-number">
+					<i class="iconfont icon-mark"></i>
+					<span class="i18n" data-iname="postlist.comments" data-ivalue="0">
+					</span>
+				</span>
+				<span><i class="iconfont icon-file"></i><a href="/categories/linux">Linux</a></span>
+			</div>
+			<div class="float-content">
+				<p>概念Secure Shell(安全外壳协议，ssh)，是一种加密的网络传输协议，可在不安全的网络中为网络服务提供安全的传输环境。SSH通过在网络中创建安全隧道来实现SSH客户端与服务器之间的连接。虽然如何网络服务都可以通过SSH实现安全传输，SSH最常见的用途是远程登陆系统，通常利用SSH来传输命令</p>
+				<div class="post-bottom">
+					<a href="/archives/ji-yi-ci-ssh-mian-mi-deng-lu" class="button-normal"><i class="iconfont icon-caidan"></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
+</article>
+<article class="post post-list-thumb post-list-thumb-left" itemscope="" itemtype="http://schema.org/BlogPosting">
+	<div class="post-thumb">
+		<a href="/archives/bo-ke-wu-fa-jia-zai-wang-luo-tu-pian-jie-jue-ban-fa">
+			<img
+                src="https://api.lixingyong.com/api/images?postid=35&type=url&itype=image"
+                srcset="/themes/LIlGG_Sakura/source/images/svg/loader/orange.progress-bar-stripe-loader.svg"
+                data-srcset="https://api.lixingyong.com/api/images?postid=35&type=url&itype=image&th=640 640w,
+                    https://api.lixingyong.com/api/images?postid=35&type=url&itype=image&th=960 960w,
+                    https://api.lixingyong.com/api/images?postid=35&type=url&itype=image&th=1280 1280w,
+                    https://api.lixingyong.com/api/images?postid=35&type=url&itype=image 1440w"
+                data-sizes="auto"
+                class="lazyload" />
+		</a>
+	</div><!-- thumbnail-->
+	<div class="post-content-wrap">
+		<div class="post-content">
+			<div class="post-date">
+				<i class="iconfont icon-time"></i><span class="i18n" data-iname="postlist.time" data-ivalue="2022-04-01"></span>
+				
+			</div>
+			<a href="/archives/bo-ke-wu-fa-jia-zai-wang-luo-tu-pian-jie-jue-ban-fa" class="post-title"><h3>博客无法加载网络图片解决办法</h3></a>
+			<div class="post-meta">
+				<span><i class="iconfont icon-attention"></i><span class="i18n" data-iname="postlist.heat" data-ivalue="100"></span></span>
+				<span class="comments-number">
+					<i class="iconfont icon-mark"></i>
+					<span class="i18n" data-iname="postlist.comments" data-ivalue="0">
+					</span>
+				</span>
+			</div>
+			<div class="float-content">
+				<p>在请求到的图片链接前面加上 https://images.weserv.nl/?url=（这是一个专门缓存图片的网址）</p>
+				<div class="post-bottom">
+					<a href="/archives/bo-ke-wu-fa-jia-zai-wang-luo-tu-pian-jie-jue-ban-fa" class="button-normal"><i class="iconfont icon-caidan"></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
+</article>
+	</main><!-- #main -->
+
+    <div id="pagination">
+        <a href="/page/2" class="i18n" data-iname="page.next"></a>
+	</div>
+</div><!-- #primary -->
+
+</div><!-- #content -->
+<!-- 定义可变属性，会根据页面的改变而变化 -->
+<script type='text/javascript'>
+	/* <![CDATA[ */
+    var PageAttr = {
+		"metas": {
+		},
+		"isPost": "false",
+	}
+	/* ]]> */
+</script>
+</div><!-- #page Pjax container-->
+<footer id="colophon" class="site-footer" role="contentinfo">
+	<div class="site-info">
+		<div class="footertext">
+			<p class="foo-logo"
+			   style="background-image: url('https://cdn.jsdelivr.net/gh/LIlGG/cdn@1.0.8/img/Sakura/images/sakura.svg');"></p>
+    
+    
+		</div>
+		<div class="footer-device">
+			<p style="font-family: 'Ubuntu', sans-serif;">
+				<!-- <span>Powered
+ 					<i class="fa fa-vimeo animated" style="color: #e74c3c;"></i>
+					by
+					<a rel="me" target="_blank"  href="http://halo.run" title="本站点由Halo强力驱动" style="text-decoration:none;">Halo</a>
+				</span> -->
+                <!-- <span>Crafted with
+ 					<i class="fa fa-heart animated" style="color: #e74c3c;"></i>
+					by
+					<a rel="me" target="_blank" href="https://github.com/LIlGG/halo-theme-sakura" style="text-decoration:none;">LIlGG</a>
+				</span> -->
+                <div data-v-625f2a9e="" style="display: inline-block;"><a data-v-625f2a9e="" rel="external nofollow noopener" href="http://halo.run" target="_blank" title="由 Halo 强力驱动"><span data-v-625f2a9e="" style="color: #fff;border-bottom-left-radius: 4px;border-top-left-radius: 4px;display: inline-block;background-color: #505050;padding: 2px 4px 1px 4px;" >Powered</span><span data-v-625f2a9e="" style="color: #fff;padding: 2px 4px 3px 4px;background-color: #007ec6!important;border-top-right-radius: 4px;border-bottom-right-radius: 4px;">Halo v1.5.0</span></a></div>
+                <div data-v-625f2a9e="" style="display: inline-block;"><a data-v-625f2a9e="" rel="external nofollow noopener" href="https://cloud.tencent.com/" target="_blank" title="由Tencent Cloud托管"><span data-v-625f2a9e="" style="color: #fff;border-bottom-left-radius: 4px;border-top-left-radius: 4px;display: inline-block;background-color: #505050;padding: 2px 4px 1px 4px;" >Trusteeship</span><span data-v-625f2a9e="" style="color: #fff;padding: 2px 4px 3px 4px;background-color: #44e0c0!important;border-top-right-radius: 4px;border-bottom-right-radius: 4px;">Tencent Cloud</span></a></div>
+                <div data-v-625f2a9e="" style="display: inline-block;"><a data-v-625f2a9e="" rel="external nofollow noopener" href="https://beian.miit.gov.cn/" target="_blank" title="ICP备案"><span data-v-625f2a9e="" style="color: #fff;border-bottom-left-radius: 4px;border-top-left-radius: 4px;display: inline-block;background-color: #505050;padding: 2px 4px 1px 4px;">蜀ICP备</span><span data-v-625f2a9e="" style="color: #fff;padding: 2px 4px 3px 4px;background-color: red!important;border-top-right-radius: 4px;border-bottom-right-radius: 4px;">2022002393-1号</span></a></div>
+                <div data-v-625f2a9e="" style="display: inline-block;"><a data-v-625f2a9e="" rel="external nofollow noopener" href="https://icp.gov.moe/" target="_blank" title="萌国备案"><span data-v-625f2a9e="" style="color: #fff;border-bottom-left-radius: 4px;border-top-left-radius: 4px;display: inline-block;background-color: #505050;padding: 2px 4px 1px 4px;">萌备</span><span data-v-625f2a9e="" style="color: #fff;padding: 2px 4px 3px 4px;background-color: orange!important;border-top-right-radius: 4px;border-bottom-right-radius: 4px;">20220706号</span></a></div>
+                <div data-v-625f2a9e="" style="display: inline-block;"><a data-v-625f2a9e="" rel="external nofollow noopener" href="https://github.com/LIlGG/halo-theme-sakura" target="_blank" title="主题"><span data-v-625f2a9e="" style="color: #fff;border-bottom-left-radius: 4px;border-top-left-radius: 4px;display: inline-block;background-color: #505050;padding: 2px 4px 1px 4px;">Theme</span><span data-v-625f2a9e="" style="color: #fff;padding: 2px 4px 3px 4px;background-color: #4dc820!important;border-top-right-radius: 4px;border-bottom-right-radius: 4px;">LIlGG</span></a></div>
+			</p>
+			<p>
+				Copyleft © 2022 xiaowangc
+			</p>
+		</div>
+	</div><!-- .site-info -->
+</footer><!-- #colophon -->
+<div class="openNav">
+	<div class="iconflat">
+		<div class="icon"></div>
+	</div>
+	<div class="site-branding">
+			<h1 class="site-title"><a href="https://www.xiaowangc.com">尤妤.</a></h1>
+	</div>
+</div><!-- m-nav-bar -->
+</section><!-- #section -->
+<!-- m-nav-center -->
+<div id="mo-nav">
+	<div class="m-avatar">
+		<img src="/upload/2022/04/%E5%A4%B4%E5%83%8F.jpg">
+	</div>
+AAAAAAAAAAA
+		<p style="text-align: center; color: #333; font-weight: 900; font-family: 'Ubuntu', sans-serif; letter-spacing: 1.5px">尤妤.</p>
+
+		<p style="display:flex; justify-content:center;">
+				<a href="//wpa.qq.com/msgrd?v=3&uin=780312916&site=qq&menu=yes" class="social social-wangyiyun" target="_blank"><img src="/themes/LIlGG_Sakura/source/images/sns/qq.png" width="18"/></a>
+		</p>
+
+	<div class="m-search">
+		<form class="m-search-form" method="get" action="/search" role="search">
+			<input class="m-search-input" type="search" name="keyword" placeholder="搜索..." required>
+		</form>
+	</div>
+<ul id="menu-menu-1" class="menu" >
+				<li>
+				<a  href="/" target="_self" >
+                    <span class="faa-parent animated-hover">
+首页
+                    </span>
+				</a>
+			</li>
+
+			<li>
+				<a  href="/archives" target="_self" >
+                    <span class="faa-parent animated-hover">
+文章归档
+                    </span>
+				</a>
+			</li>
+
+			<li>
+				<a  href="/categories/default" target="_self" >
+                    <span class="faa-parent animated-hover">
+默认分类
+                    </span>
+				</a>
+			</li>
+
+			<li>
+				<a  href="/links" target="_self" >
+                    <span class="faa-parent animated-hover">
+友链
+                    </span>
+				</a>
+			</li>
+
+			<li>
+				<a  href="/s/about" target="_self" >
+                    <span class="faa-parent animated-hover">
+关于页面
+                    </span>
+				</a>
+			</li>
+
+</ul>	<p class="m-footer">© 2022 xiaowangc</p>
+</div><!-- m-nav-center end -->
+<a href="#" class="cd-top"></a>
+<!-- m-cd-top start -->
+<button class="m-cd-top" title="Go to top">
+	<i class="fa fa-chevron-up" aria-hidden="true"></i>
+</button>
+<!-- m-cd-top end -->
+<!-- search start -->
+<form class="js-search search-form search-form--modal" method="get" action="/search" role="search">
+	<div class="search-form__inner">
+		<div>
+			<p class="micro mb-">输入后按回车搜索 ...</p>
+			<i class="iconfont icon-search"></i>
+			<input class="text-input" type="search" name="keyword" placeholder="Search" required>
+		</div>
+	</div>
+	<div class="search_close"></div>
+</form>
+<!-- search end -->
+<!-- aplayer start -->
+<!-- aplayer end -->
+<!-- theme-change start -->
+<!-- theme-change end -->
+<!-- 定义全局属性 -->
+<script type='text/javascript'>
+	/* <![CDATA[ */
+	var Poi = {
+		"pjax":"true",
+		"windowheight":"auto",
+		"ajaxurl":"https://www.xiaowangc.com",
+		"resBaseUrl": "/themes/LIlGG_Sakura",
+		"formpostion":"bottom",
+		"toc": "true",
+		"codeLine": "true",
+		"themeChange": "true",
+		"headFocus": "true",
+		"bgvideo": "",
+		"tagRandomColorMin": "0.999",
+		"tagRandomColorMax": "1",
+		"nickname": "xiaowangc",
+		"sitename": "尤妤.",
+		"themeBase": "/themes/LIlGG_Sakura",
+		"openToast": "true",
+		"toastWidth": 260,
+		"toastHeight": 60,
+		"toastTop": "top",
+		"toastBackground": "#072cfc",
+		"toastColor": "#ffffff",
+		"toastFontSize": 14,
+		"copyMonitor": "true",
+		"copyrightNotice": "",
+		"photosStyle": "justify",
+		"photosGutter": 10,
+		"tocDepth": 0,
+		"i18n": "auto",
+		"mathjax": "",
+		"coverNum": "5",
+		"rimageUrl": "https://api.lixingyong.com/api/images",
+		"coverOpen": "",
+		"meEmail": "780312916@qq.com",
+		"defaultTheme": "bg_0",
+		"defaultGroup": "",
+		"isPostWordCountToast": "true",
+		"isPostEditTimeToast": "true",
+		"postWordCountToastNormal": "文章篇幅适中，可以放心阅读。",
+		"postWordCountToastMedium": "文章内容较长，请提前准备好咖啡!!!",
+		"postWordCountToastDifficulty": "文章内容很长，建议分段阅读。",
+		"postEditTimeToastNormal": "近期有所更新，请放心阅读！",
+		"postEditTimeToastMedium": "文章距上次编辑时间较远，部分内容可能已经过时！",
+		"postEditTimeToastDifficulty": "文章内容已经很陈旧了，也许不再适用！",
+    "journalLikes": "",
+    "journalComment": "",
+	};
+	var bgConfig = {
+
+		"bg_0": {
+			"id": "0",
+			"name": "white",
+			"desc": "默认是纯洁的白色~",
+			"url": "",
+			"strategy": "none",
+			"isNight": ""
+		},
+
+		"bg_1": {
+			"id": "1",
+			"name": "sakura",
+			"desc": "樱花飞舞~",
+			"url": "https://view.lixingyong.com/images/2020/07/23/695cc3a80b21ee7f18bd731824ab9638.png",
+			"strategy": "none",
+			"isNight": ""
+		},
+
+		"bg_2": {
+			"id": "2",
+			"name": "gribs",
+			"desc": "格子控！",
+			"url": "https://view.lixingyong.com/images/2020/07/23/defc1b6783cd16774900517d3b38ded7.jpg",
+			"strategy": "none",
+			"isNight": ""
+		},
+
+		"bg_3": {
+			"id": "3",
+			"name": "KAdots",
+			"desc": "小点点~",
+			"url": "https://view.lixingyong.com/images/2020/07/23/kyotoanimation.png",
+			"strategy": "none",
+			"isNight": ""
+		},
+
+		"bg_4": {
+			"id": "4",
+			"name": "totem",
+			"desc": "充满力量的橙色",
+			"url": "https://view.lixingyong.com/images/2020/07/23/little-monster.png",
+			"strategy": "none",
+			"isNight": ""
+		},
+
+		"bg_5": {
+			"id": "5",
+			"name": "pixiv",
+			"desc": "pixiv主题~",
+			"url": "https://view.lixingyong.com/images/2020/07/23/star02.png",
+			"strategy": "none",
+			"isNight": ""
+		},
+
+		"bg_6": {
+			"id": "6",
+			"name": "bing",
+			"desc": "必应图片",
+			"url": "https://api.shino.cc/bing/",
+			"strategy": "cover",
+			"isNight": "true"
+		},
+
+		"bg_7": {
+			"id": "7",
+			"name": "dark",
+			"desc": "关灯！",
+			"url": "",
+			"strategy": "cover",
+			"isNight": "true"
+		},
+	};
+	/* ]]> */
+</script>
+<script type='text/javascript' src='/themes/LIlGG_Sakura/script/utils.min.js?ver=1.3.3'></script>
+<script type="text/javascript" src="/themes/LIlGG_Sakura/source/lib/lazysizes/lazysizes.min.js" async></script>
+<script type="text/javascript" src="/themes/LIlGG_Sakura/source/js/lib.js"></script>
+<!-- 相册 -->
+<script src="/themes/LIlGG_Sakura/source/lib/justifiedGallery/jquery.justifiedGallery.min.js" async></script>
+<script type="text/javascript" src="/themes/LIlGG_Sakura/source/js/highlight/highlight.pack.js" defer></script>
+	<script type="text/javascript" src="/themes/LIlGG_Sakura/source/js/highlight/highlightjs-line-numbers.min.js" defer></script>
+	<script src="/themes/LIlGG_Sakura/source/lib/tocbot/dist/tocbot.min.js" defer></script>
+<script src="https://cdn.jsdelivr.net/gh/LIlGG/halo-comment-sakura/dist/halo-comment.min.js" defer></script>
+<script src="/themes/LIlGG_Sakura/source/lib/jqcloud2/jqcloud.min.js" defer></script>
+<script type='text/javascript'>
+	var wordcloud = [
+		{'text': 'K8S', 'weight': '1', 'link': '/tags/k8s'},
+		{'text': 'ssh', 'weight': '0', 'link': '/tags/ssh'},
+		{'text': '容器', 'weight': '2', 'link': '/tags/容器'},
+		{'text': 'docker', 'weight': '2', 'link': '/tags/docker'},
+		{'text': 'linux', 'weight': '2', 'link': '/tags/linux'},
+	]
+</script>
+<script src="/themes/LIlGG_Sakura/source/js/echarts/echarts.min.js" defer></script>
+<script type='text/javascript'>
+	var categoryRadar = {
+		'Linux': '5',
+		'Docker': '1',
+		'K8S': '1',
+		'Prometheus': '5',
+	}
+</script>
+<script type='text/javascript' src='/themes/LIlGG_Sakura/source/js/qrcode.min.js' defer></script>
+<script type='text/javascript' src='/themes/LIlGG_Sakura/source/lib/flv.min/index.js' defer></script>
+<script type='text/javascript' src='/themes/LIlGG_Sakura/script/i18n.min.js?ver=1.3.3' defer></script>
+<script type='text/javascript' src='/themes/LIlGG_Sakura/script/app.min.js?ver=1.3.3'></script>
+<div class="site-statistics">
+    
+</div>
+</body>
+</html>
