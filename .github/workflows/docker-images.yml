@@ -30,4 +30,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: registry.cn-shenzhen.aliyuncs.com/xiaowangc/app-blogs:${{ github.event.pull_request.head.sha }}
+          tags: registry.cn-shenzhen.aliyuncs.com/xiaowangc/app-blogs:${{ github.head_ref }}
