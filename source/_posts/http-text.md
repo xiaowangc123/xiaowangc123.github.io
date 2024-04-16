@@ -1,11 +1,12 @@
 ---
 title: HTTP协议(部分)
-date: 2024-04-16 17:42:23
 tags:
   - HTTP
 cover: img/fengmian/nginx.png
 categories:
   - nginx
+abbrlink: 5c044483
+date: 2024-04-16 17:42:23
 ---
 # HTTP
 

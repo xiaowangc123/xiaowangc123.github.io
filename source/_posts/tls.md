@@ -1,15 +1,16 @@
 ---
 title: TLS握手过程
-date: 2024-04-16 17:58:18
 tags:
   - TLS
 cover: img/fengmian/nginx.png
 categories:
   - nginx
+abbrlink: 2e4f4337
+date: 2024-04-16 17:58:18
 ---
 # TLS通讯过程
 
-![image-20230124025020824](Nginx的优点/image-20230124025020824.png)
+![image-20230124025020824](image-20230124025020824.png)
 
 1. ClientHello
 
@@ -20,7 +21,7 @@ categories:
    - 支持的加密方法
    - 支持的压缩方法
 
-   ![image-20230124012839695](Nginx的优点/image-20230124012839695.png)
+   ![image-20230124012839695](image-20230124012839695.png)
 
 2. ServerHello
 
@@ -32,7 +33,7 @@ categories:
 
      **下图的加密套件采用了ECDHE**，**如果采用的RSA或其他，那么过程会有差异**
 
-     ![image-20230124053713733](Nginx的优点/image-20230124053713733.png)
+     ![image-20230124053713733](image-20230124053713733.png)
 
      - 密钥交换算法：ECDHE
 
@@ -52,11 +53,11 @@ categories:
 
    
 
-   ![image-20230124015717026](Nginx的优点/image-20230124015717026.png)
+   ![image-20230124015717026](image-20230124015717026.png)
 
    **由于是采用的ECDHE进行密钥交换，因此服务器将采用椭圆曲线算法将这个公钥发送给客户端**
 
-   ![image-20230124020634121](Nginx的优点/image-20230124020634121.png)
+   ![image-20230124020634121](image-20230124020634121.png)
 
    **服务端在第二次握手报文中包括：Server Hello, Certificate, ServerHelloDone共计三个报文。习惯将其称之为ServerHello**
 
@@ -66,7 +67,7 @@ categories:
 
    如果证书没有问题，客户端会生成一个随机数，作为ECDHE的临时私钥，并通过服务端在**Server Key Exchange**中发送的**椭圆曲线参数**计算出自己的**ECDHE公钥**信息，然后通过**Client Key Exchange**向服务器回应：
 
-   ![image-20230124021303749](Nginx的优点/image-20230124021303749.png)
+   ![image-20230124021303749](image-20230124021303749.png)
 
 4. 服务器响应：
 
@@ -74,7 +75,7 @@ categories:
 
    此外服务端同样对所有握手报文做一个摘要，并进行加密然后发送给客户端一个Encrypted Handshake Message消息，验证客户端是否可以正常解密
 
-   ![image-20230124024954898](Nginx的优点/image-20230124024954898.png)
+   ![image-20230124024954898](image-20230124024954898.png)
 
    
 
