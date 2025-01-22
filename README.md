@@ -1,1 +1,1 @@
-new.xiaowangc.com
+www.xiaowangc.com
