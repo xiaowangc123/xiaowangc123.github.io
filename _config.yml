@@ -108,7 +108,7 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: butterfly
-remote_theme: jerryc127/hexo-theme-butterfly
+
 
 
 #plugins:
@@ -119,6 +119,5 @@ remote_theme: jerryc127/hexo-theme-butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: git@github.com:qq780312916/qq780312916.github.io.git
-  branch: master
+  type: 
+  branch: 
